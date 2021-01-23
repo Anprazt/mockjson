@@ -3,7 +3,8 @@
   {"id":1,
    "nama":"Narita Hotel Tangerang",
    "alamat":"Jl. KH. Hasyim Ashari Cipondoh Raya No. 63-65, Cipondoh, Kec. Karang Tengah, Kota Tangerang, Banten 15157",
-   "nomor_telp":"02155701111","kordinat":"-6.19197, 106.67243",
+   "nomor_telp":"02155701111",
+   "kordinat":"-6.19197, 106.67243",
    "gambar_url":"https:\/\/dev.farizdotid.com\/api\/halopwk\/gambar\/hotel\/hotel_harper.jpeg"},
   
   {"id":2,
