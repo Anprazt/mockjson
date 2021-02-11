@@ -6,7 +6,8 @@
 "jam_buka_tutup":"Hari Selasa - Minggu Pukul 05.00 WIB - 11.00 WIB.",
 "kordinat":"-6.18338, 106.63472",
 "gambar_url":"https://1.bp.blogspot.com/-BoE-hcdgbew/YCVQV0sPm-I/AAAAAAAAA6A/1PJ0QrQkNe8Z_ubK2hHVYGplBAThNflfgCLcBGAsYHQ/s408/kuliner1.jpg",
-"kategori":"Kuliner Legendaris"},
+"kategori":"Kuliner Legendaris",
+"deskripsi":"Lorem ipsum"},
 {
 "id":2,
 "nama":"Pecel Pincuk Ibu Ida",
@@ -14,7 +15,8 @@
 "jam_buka_tutup":"Setiap Hari Pukul 07.00 WIB - 17.00 WIB",
 "kordinat":"-6.24309, 106.62968",
 "gambar_url":"https://1.bp.blogspot.com/-_Rtgznqrnw8/YCVQWIXYO7I/AAAAAAAAA6I/sLGi5FJKNRMTRWITAE4y6Z_mt-B0w5SQwCLcBGAsYHQ/s408/kuliner2.jpg",
-"kategori":"Rumah Makan"},
+"kategori":"Rumah Makan",
+"deskripsi":"Lorem ipsum"},
 {
 "id":3,
 "nama":"Soto Betawi H. Mamat",
@@ -22,7 +24,8 @@
 "jam_buka_tutup":"Setiap Hari Pukul 08.30 WIB - 21.00 WIB.",
 "kordinat":"-6.28160, 106.66938",
 "gambar_url":"https://1.bp.blogspot.com/-ZrPGkGvIdv0/YCVQWXMdXPI/AAAAAAAAA6M/5pQBBQ2ByvQCxos75G6iYbSkzz2x1DrzACLcBGAsYHQ/s408/kuliner3.jpg",
-"kategori":"Rumah Makan"},
+"kategori":"Rumah Makan",
+"deskripsi":"Lorem ipsum"},
 {
 "id":4,
 "nama":"Jagarawa",
@@ -30,7 +33,8 @@
 "jam_buka_tutup":"Setiap Hari Pukul 10.00 WIB - 22.00 WIB.",
 "kordinat":"-6.19481, 106.67462",
 "gambar_url":"https://1.bp.blogspot.com/-XZpp8IVXoBY/YCVQWhJ7nlI/AAAAAAAAA6Q/_DEmGIcNduAfdw84GSODtefMWJcTwZtWgCLcBGAsYHQ/s225/kuliner4.jpg",
-"kategori":"Rumah Makan"},
+"kategori":"Rumah Makan",
+"deskripsi":"Lorem ipsum"},
 {
 "id":5,
 "nama":"Restaurant Ibu Hj. Kokom",
@@ -38,7 +42,8 @@
 "jam_buka_tutup":"Setiap Hari Pukul 09.00 WIB - 17.00 WIB",
 "kordinat":"-6.19438, 106.675679",
 "gambar_url":"https://1.bp.blogspot.com/-KY204XTgUac/YCVQW5b2TnI/AAAAAAAAA6U/ZUwNwPbvAvkclVbYasO0P8-g6PSQlzt_gCLcBGAsYHQ/s408/kuliner5.jpg",
-"kategori":"Restaurant"},
+"kategori":"Restaurant",
+"deskripsi":"Lorem ipsum"},
 {
 "id":6,
 "nama":"Kawasan Kuliner Laksa Tangerang",
@@ -46,7 +51,8 @@
 "jam_buka_tutup":"Setiap Hari 24 Jam",
 "kordinat":"-6.19205, 106.63835",
 "gambar_url":"https://1.bp.blogspot.com/-LBOfX1GsPZk/YCVQXboe-4I/AAAAAAAAA6Y/ZuTDXQJJmp8R0U3tbe0rdgvRIMpwJCA_ACLcBGAsYHQ/s506/kuliner6.jpg",
-"kategori":"Kuliner Khas"},
+"kategori":"Kuliner Khas",
+"deskripsi":"Lorem ipsum"},
 {
 "id":7,
 "nama":"Waroeng ABG (AYAM BAKAR GORENG)",
@@ -54,7 +60,8 @@
 "jam_buka_tutup":"Setiap Hari Pukul 13.00 WIB - 00.15 WIB",
 "kordinat":"-6.21864, 106.68735",
 "gambar_url":"https://1.bp.blogspot.com/-FaJw3jOxO0M/YCVQX3npUfI/AAAAAAAAA6c/1uusk1KygEUt0yiYkNMgxf9MVfnNKBe3QCLcBGAsYHQ/s506/kuliner7.jpg",
-"kategori":"Restaurant"},
+"kategori":"Restaurant",
+"deskripsi":"Lorem ipsum"},
 {
 "id":8,
 "nama":"Sop DJanda R.W.Ma'idah",
@@ -62,7 +69,8 @@
 "jam_buka_tutup":"Setiap Hari Pukul 10.00 WIB - 21.00 WIB",
 "kordinat":"-6.19328, 106.67571",
 "gambar_url":"https://1.bp.blogspot.com/-JULRI2gpBa8/YCVQX2tIu8I/AAAAAAAAA6g/L82q-am7ZLY8sE0G2fQ2bhB2ih0mt9llgCLcBGAsYHQ/s408/kuliner8.jpg",
-"kategori":"Restaurant"},
+"kategori":"Restaurant",
+"deskripsi":"Lorem ipsum"},
 {
 "id":9,
 "nama":"Mie Yamin 33 Karang Tengah",
@@ -70,7 +78,8 @@
 "jam_buka_tutup":"Setiap Hari Pukul 10.00 WIB - 21.00 WIB.",
 "kordinat":"-6.20759, 106.71420",
 "gambar_url":"https://1.bp.blogspot.com/-1k4yL9aSzeY/YCVQYOFOOoI/AAAAAAAAA6k/v4ewyp1Y3dYue6B4sqE-eGt3mqAC1xBrQCLcBGAsYHQ/s408/kuliner9.jpg",
-"kategori":"Rumah Makan"},
+"kategori":"Rumah Makan",
+"deskripsi":"Lorem ipsum"},
 {
 "id":10,
 "nama":"Ayam Gepuk Pak Gembus - Taman Royal",
@@ -78,5 +87,6 @@
 "jam_buka_tutup":"Setiap Hari pukul 12.00 WIB - 22.00 WIB",
 "kordinat":"-6.17721, 106.65724",
 "gambar_url":"https://1.bp.blogspot.com/-d4QAEiygv3Y/YCVQV9XAFHI/AAAAAAAAA6E/h0yzbQ-2MoY6_SalEMAy-cLQGS5St8xUgCLcBGAsYHQ/s426/kuliner10.jpg",
-"kategori":"Rumah Makan"}
+"kategori":"Rumah Makan",
+"deskripsi":"Lorem ipsum"}
 ]}
